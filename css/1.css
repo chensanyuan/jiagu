@@ -1,0 +1,29 @@
+p{color: red; border: thick solid groove;}
+h1{color: green; border: 1px;}
+body{
+    background-color: rgb(212, 115, 36);
+}
+img:hover{
+    background-color: #00F;
+}
+.img{
+    margin: 2px;
+    padding: 1px;
+    height: 100px;
+    width: 150px;
+    border: thin solid #0FF;
+}
+#layout{
+    margin: 10px auto;
+    padding: 1px;
+    width: 635px;
+    border: thick solid #000;
+}
+.au{
+    width: 635px;
+}
+.ad{
+    width: 638px;
+    height: 80px;
+    margin: 0 auto;
+}
